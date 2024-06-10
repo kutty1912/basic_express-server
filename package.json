@@ -1,0 +1,21 @@
+{
+  "name": "internship",
+  "version": "1.0.0",
+  "description": "web development for internship application",
+  "main": "script.js",
+  "scripts": {
+    "start": "script.js",
+    "dev": "node devServer.js"
+  },
+  "keywords": [
+    "internship",
+    "project"
+  ],
+  "author": "veena",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.13.2"
+  }
+}
